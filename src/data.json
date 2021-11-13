@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Pratik Bangera",
+        "email":"pratikbangera72@gmail.com"
+    },
+    {
+        "id":2,
+        "name":"Vinayak Pawar",
+        "email":"vinayakpawar07@gmail.com"
+    },
+    {
+        "id":3,
+        "name":"Chaitanya Deshpande",
+        "email":"chaitanyadeshpande98@gmail.com"
+    },
+    {
+        "id":4,
+        "name":"Omkar Korekar",
+        "email":"omkarkorekar44@gmail.com"
+    }
+]
